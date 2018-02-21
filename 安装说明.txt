@@ -1,0 +1,22 @@
+1.开发环境：Eclipse4.4（javaee版）+jdk8+tomcat8+postgreSQL9.2
+2.导入database目录下的数据到postgresql中。
+3.导入MyERP到eclipse中
+4.启动tomcat，直接访问http://localhost:8080/，切记不要包含项目路径
+
+用户名密码pssdss
+
+
+程序员分享开发网  www.pssdss.com  各类软件源码下载交流
+QQ:11851298
+
+
+免责申明：
+仅供本人参考学习
+不得外泄源码,发现外泄源码将停止下载
+源码版权将归创作者所有
+
+
+
+
+
+
